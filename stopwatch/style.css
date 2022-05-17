@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+#wrap{
+    width: 90%;
+    height: 400px;
+    background-color: goldenrod;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+
+#wrap h1{
+    font-size: 40px;
+    font-weight: 300;
+}
+
+#wrap p{
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.btn{
+    width: 100px;
+    height: 50px;
+    background-color: goldenrod;
+    border-radius: 5px;
+    border: 1px solid white;
+    font-size: 15px;
+    color: white;
+    margin-left: 20px;
+}
+
+.btn:hover{
+    background-color: coral;
+}
+
