@@ -10,4 +10,4 @@ console.log(fruits.lastIndexOf("orange", 0)); //0 이후 뒤에서부터 찾음 
 
 console.log(fruits.includes("banana"));  //true
 console.log(fruits.includes("Banana"));  //false
-console.log(fruits.includes("0"));  //false
+console.log(fruits.includes("0"));  //false  값이 없으면 false를 리턴
